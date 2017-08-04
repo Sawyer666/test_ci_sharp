@@ -1,0 +1,8 @@
+﻿<Window x:Class="TestApp.MainWindow" ResizeMode="NoResize"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Тестовое задание" Height="150" Width="725">
+    <Grid Name="main_grid">
+     
+    </Grid>
+</Window>
